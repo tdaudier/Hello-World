@@ -1,5 +1,5 @@
 # Hello-World 
 
-Hi People
+Hi People!
 
 Tyler here, I am a computer science major.
